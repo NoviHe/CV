@@ -11,7 +11,7 @@ const project = [
     },
     {
         nama: "Laravel Sistem Informasi Data Asset",
-        img: "./assets/img/portfolio/laravel-sida.png",
+        img: "./assets/img/portfolio/laravel-sida.PNG",
         link: "#"
     },
     {
@@ -21,7 +21,7 @@ const project = [
     },
     {
         nama: "PHP Penggajian App",
-        img: "./assets/img/portfolio/penggajian.png",
+        img: "./assets/img/portfolio/penggajian.PNG",
         link: "http://penggajian.novimovie.xyz/"
     },
     {

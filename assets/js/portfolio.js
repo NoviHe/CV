@@ -35,8 +35,18 @@ const project = [
         link: "#"
     },
     {
-        nama: "Develop Project T- Hypestor",
+        nama: "Develop Project T-Hypestor",
         img: "./assets/img/portfolio/t-store.jpg",
+        link: "#"
+    },
+    {
+        nama: "Kotlin Github User App",
+        img: "./assets/img/portfolio/github-user.png",
+        link: "#"
+    },
+    {
+        nama: "Develop Project TBL-Cargo",
+        img: "./assets/img/portfolio/tbl.png",
         link: "#"
     }
 ];
